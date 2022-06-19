@@ -27,5 +27,5 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: arshsisodiya/heliosmirror:latest
-SPECT3R/seggs:latest
+          tags: SPECT3R/imnoob:latest
+
